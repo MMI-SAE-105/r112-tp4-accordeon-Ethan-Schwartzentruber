@@ -1,3 +1,18 @@
-/**
-* Accordeon
-*/
+details {
+    /* fermé et ouvert */
+    display: flex;
+    align-items: center;
+    gap: 16px;
+    margin-top: 16px;
+    flex-direction: row;
+}
+
+details[open] {
+    /* ouvert */
+    gap: 10px;
+}
+
+.accordeon {
+    display: flex;
+   /* gap: 10px;*/
+}

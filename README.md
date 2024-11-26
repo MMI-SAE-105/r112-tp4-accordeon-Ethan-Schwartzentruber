@@ -1,6 +1,6 @@
-- nom :
-- prénom :
-- URL Netlify :
+- nom : Schwartzentruber 
+- prénom : Ethan 
+- URL Netlify : https://magenta-alfajores-054da7.netlify.app/
 
 # Travail
 
